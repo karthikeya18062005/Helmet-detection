@@ -14,6 +14,11 @@ This project uses **YOLOv8** to detect **helmets on riders** in real-time or fro
 
 ---
 
+##Output:-
+<img width="960" height="924" alt="image" src="https://github.com/user-attachments/assets/62e5ccec-f3e6-48f0-baf3-ba26c5b672dc" />
+<img width="958" height="930" alt="image" src="https://github.com/user-attachments/assets/1857c927-3cca-4c6a-b874-f966aa4a5350" />
+
+
 ## 🎯 Features
 
 - 🔍 Detects helmet presence on riders
@@ -37,7 +42,6 @@ This project uses **YOLOv8** to detect **helmets on riders** in real-time or fro
 
 ## 📦 Installation
 
-```bash
 git clone https://github.com/karthikeya18062005/Helmet-detection.git
 cd Helmet-detection
 pip install -r requirements.txt
